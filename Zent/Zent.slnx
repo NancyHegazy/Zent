@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Zent.Api/Zent.Api.csproj" />
+  <Project Path="Zent.Application/Zent.Application.csproj" />
+  <Project Path="Zent.Domain/Zent.Domain.csproj" />
+  <Project Path="Zent.Infrastructure/Zent.Infrastructure.csproj" />
+</Solution>
